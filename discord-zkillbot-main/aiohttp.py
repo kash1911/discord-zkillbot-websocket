@@ -2,7 +2,7 @@ import asyncio
 import json
 import aiohttp
 
-DISCORD_WEBHOOK_URL = "https://discord.com/api/webhooks/1321044607076929577/foVcNHHMBNK2OL8YQYP17MmsP4nwcwVSRJWAo-KR1snfSYBjax5xA9wqQST40dPH5AFx"
+DISCORD_WEBHOOK_URL = ""
 
 
 async def receive_messages(websocket_url, subscription_payload):
